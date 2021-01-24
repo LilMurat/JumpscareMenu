@@ -12,4 +12,4 @@ Made with Godot Engine (https://godotengine.org)
 
 
 
-**SUPPRT ME BY CLICKING THIS LINK: **http://bc.vc/wt1hrvj
+SUPPORT ME BY CLICKING THIS LINK: http://bc.vc/wt1hrvj
