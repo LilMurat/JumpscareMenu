@@ -1,7 +1,7 @@
 # JumpscareMenu
 A Jumpscare menu for FNaF
 
-Download: https://github.com/LilMurat/JumpscareMenu/releases
+Download: http://bc.vc/wt1hrvj
 
 Instagram: l1l.murat
 Twitter: @L1lMurat
